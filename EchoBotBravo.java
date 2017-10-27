@@ -1,7 +1,7 @@
 import robocode.*;
 import java.awt.geom.Point2D;
 
-public class EchoBot extends BravoBot {
+public class EchoBotBravo extends BravoBot {
 	private EnemyBot enemy = new EnemyBot();
 	private byte radarDirection = 1;
 	private byte moveDirection = 1;
